@@ -64,10 +64,11 @@ Every commit is another page added to **The Codex of Shree**.
 |---|---|
 | 🐍 **Python** | Primary language for algorithms, data science, machine learning, and backend development |
 | ☕ **Java** | Coursework, object-oriented programming, and DSA practice |
+| 🌐 **Html/CSS/JavaScript** | Frontend tools for Building Websites |
 | ⚛️ **React / Vite / TypeScript** | Building modern, responsive frontend applications |
 | 🌐 **Node.js / Express** | Backend services, REST APIs, and server-side applications |
 | 🧪 **Flask** | Lightweight Python backend and API development |
-| 🗄️ **SQL (MySQL / PostgreSQL)** | Relational databases, queries, and data management |
+| 🗄️ **SQL (MySQL)** | Relational databases, queries, and data management |
 | 🍃 **MongoDB / SQLite** | NoSQL and lightweight database solutions |
 | 🛠️ **Git / GitHub / Vercel / Render** | Version control, collaboration, deployment, and hosting |
 
@@ -170,7 +171,7 @@ Library             :: Ever Expanding
 <div align="center">
 
 <a href="https://github.com/shree-sai-lakshmi03" target="_blank"><img src="https://img.shields.io/badge/GitHub-355C7D?style=for-the-badge&logo=github&logoColor=gold"/></a>
-<a href="https://leetcode.com/u/shree-sai-lakshmi03/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-6B1E2E?style=for-the-badge&logo=leetcode&logoColor=gold"/></a>
+<a href="https://leetcode.com/u/shree_sai_lakshmi03/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-6B1E2E?style=for-the-badge&logo=leetcode&logoColor=gold"/></a>
 <a href="https://www.geeksforgeeks.org/profile/shreesail61sl" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-8B6F47?style=for-the-badge&logo=geeksforgeeks&logoColor=gold"/></a>
 <a href="https://www.hackerrank.com/profile/shreesailakshmi1" target="_blank"><img src="https://img.shields.io/badge/HackerRank-355C7D?style=for-the-badge&logo=hackerrank&logoColor=gold"/></a>
 <a href="https://www.linkedin.com/in/r-shree-sai-lakshmi-a46052363/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-6B1E2E?style=for-the-badge&logo=linkedin&logoColor=gold"/></a>
