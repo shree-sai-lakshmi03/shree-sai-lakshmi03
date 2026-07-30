@@ -69,7 +69,7 @@ Every commit is another page added to **The Codex of Shree**.
 | 🌐 **Node.js / Express** | Backend services, REST APIs, and server-side applications |
 | 🧪 **Flask** | Lightweight Python backend and API development |
 | 🗄️ **SQL (MySQL)** | Relational databases, queries, and data management |
-| 🍃 **SQLAlchemy|Flask|RESTAPIs** | Backend coding using Python |
+| 🍃 **SQLAlchemy,Flask,RESTAPIs** | Backend coding using Python |
 | 🛠️ **Git / GitHub / Vercel / Render** | Version control, collaboration, deployment, and hosting |
 
 ---
