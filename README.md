@@ -79,12 +79,13 @@ Every commit is another page added to **The Codex of Shree**.
 ```
 📜 The Codex of Shree
 │
+|── 📂 Sentinel — AI-driven women's safety platform, predictive risk detection, smart SOS, trusted contact network
 ├── 📂 Mikrokosmos — social platform, 7 models, 25+ API routes(Currently Building)
 ├── 📂 AQI & HCHO Hotspot Mapper — satellite data, XGBoost, Spring Boot
 ├── 📂 Pixel Arcade — retro browser arcade, 7 games, CRT overlay
-├── 📂 Notes App — full-stack, deployed on Vercel + Render
-├── 📂 Personal Portfolio — hand-built pixel-art hero scene
-└── 📜 Scholar's Notes — DSA, ongoing
+├── 📂 Notes App — React, Node.js & MySQL, JWT auth, REST APIs, Vercel + Render
+├── 📂 Personal Portfolio — React + TypeScript, pixel-art UI, interactive animations
+└── 📜 Scholar's Notes — DSA solutions, algorithm notes, complexity analysis, ongoing
 ```
 
 ---
