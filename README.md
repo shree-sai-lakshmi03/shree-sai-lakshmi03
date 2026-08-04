@@ -72,7 +72,7 @@ Every commit is another page added to **The Codex of Shree**.
 | 🍃 **SQLAlchemy,Flask,RESTAPIs** | Backend coding using Python |
 | 🛠️ **Git / GitHub / Vercel / Render** | Version control, collaboration, deployment, and hosting |
 | 🛠️ **Leaflet + OpenStreetMap API** | using them for accessing maps|
-| 🛠️ **FireBase/ CloudMessaging** | Version control, collaboration, deployment, and hosting |
+| 🛠️ **FireBase/ CloudMessaging** | Used in Sentinel project |
 
 ---
 
