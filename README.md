@@ -71,6 +71,8 @@ Every commit is another page added to **The Codex of Shree**.
 | 🗄️ **SQL (MySQL)** | Relational databases, queries, and data management |
 | 🍃 **SQLAlchemy,Flask,RESTAPIs** | Backend coding using Python |
 | 🛠️ **Git / GitHub / Vercel / Render** | Version control, collaboration, deployment, and hosting |
+| 🛠️ **Leaflet + OpenStreetMap API** | using them for accessing maps|
+| 🛠️ **FireBase/ CloudMessaging** | Version control, collaboration, deployment, and hosting |
 
 ---
 
