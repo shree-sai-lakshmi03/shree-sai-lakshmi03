@@ -2,7 +2,7 @@
 
 # 📜 𝕽. 𝕾𝖍𝖗𝖊𝖊 𝕾𝖆𝖎 𝕷𝖆𝖐𝖘𝖍𝖒𝖎
 
-### *The Archives of a Builder in Progress!!*
+### *The Archives of a Builder in Progress!!!*
 
 <img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=24&pause=1800&color=D4AF37&center=true&vCenter=true&width=800&lines=Opening+The+Grand+Archives...;Two+Degrees%2C+One+Direction...;Deciphering+Data+Structures...;Recording+Every+Shipped+Project...;One+Commit+at+a+Time."/>
 
